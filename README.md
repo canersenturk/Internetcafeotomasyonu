@@ -1,4 +1,17 @@
+Projenin amacı :Internet kafelerde kullanılan otomasyon sisteminin daha şık ve kolay bir ara yüz ile geliştirilmesidir.
+Proje özellikleri: Masalar oturulan süre ve marketten alınanlar menüleri olacaktır daimi müşterilere belli oranda indirim uygulanacaktır.
+Projenin dili C# olup müşterilere masalara ve market ürünlerine ait veritabanı bağlantısı olacaktır.
+
+
+
+
+
 # Internetcafeotomasyonu
+
+
+
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
